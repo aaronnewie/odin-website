@@ -228,13 +228,15 @@ button {
     color: #f9faf8;
 }
 
+.left-footer a {
+    color: #f9faf8;
+}
+
 .left-footer :nth-child(2) {
     color: gold;
     font-size: 20px
 }
-.left-footer a {
-    color: #f9faf8;
-}
+
 
 .footer-button {
     display: flex;
