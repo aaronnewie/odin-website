@@ -6,7 +6,6 @@ body {
     font-family: 'Roboto', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-
 * {
     box-sizing: border-box;
 }
@@ -44,7 +43,6 @@ button {
     font-size: 20px;
     color: #f9faf8;
 }
-
 
 .header {
     display: flex;
@@ -87,8 +85,6 @@ button {
     gap: 16px;
 }
 
-
-
 .hero-left, 
 .hero-title {
     font-size: 48px;
@@ -105,7 +101,6 @@ button {
  a {
     font-size: 20px;
 }
-
 
 .hero-right {
     display: flex;
@@ -174,9 +169,6 @@ button {
     max-width: 400px;
 }
 
-
-
-
 .bottom-quote {
     display: flex;
     flex-flow: column;
@@ -240,8 +232,8 @@ button {
     color: gold;
     font-size: 20px
 }
-.left-footer a:visited {
-    color: gold;
+.left-footer a {
+    color: #f9faf8;
 }
 
 .footer-button {
@@ -251,5 +243,4 @@ button {
     width: 300px;
     font-size: 25px;
     font-weight: bold;
-    color: gold;
 }
